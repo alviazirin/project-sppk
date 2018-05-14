@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "611917212133",
+    "firebase_url": "https://sppk-fa099.firebaseio.com",
+    "project_id": "sppk-fa099",
+    "storage_bucket": "sppk-fa099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611917212133:android:33e5841873cf1178",
+        "android_client_info": {
+          "package_name": "com.example.abbinizar.sppk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611917212133-ag8o524oisl75nub2h9mnumekb1e5sli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq0hGBqMDJmnjh10Mq_3QHqCp7RaO9jK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
